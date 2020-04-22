@@ -1,0 +1,8 @@
+marketingplatform.google.com
+hrblock.com
+idp.hrblock.com
+ads.google.com
+stackoverflow.com
+analytics.google.com
+google-analytics.com
+google-analytics.l.google.com
