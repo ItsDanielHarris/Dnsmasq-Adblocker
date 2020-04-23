@@ -1,4 +1,4 @@
-ad_list_url="/$USER/adblocker/whitelist.txt"
+ad_list_url=/$USER/adblocker/whitelist.txt
 pixelserv_ip="8.8.8.8"
 ad_file="/etc/dnsmasq.d/dnsmasq.adblocker.whitelist.conf"
 

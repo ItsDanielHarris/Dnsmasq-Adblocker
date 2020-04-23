@@ -1,1 +1,1 @@
-cp "/$USER/adblocker/dnsmasq.adblocker.blacklist.countries.conf" /etc/dnsmasq.d/
+cp /$USER/adblocker/dnsmasq.adblocker.blacklist.countries.conf /etc/dnsmasq.d/
