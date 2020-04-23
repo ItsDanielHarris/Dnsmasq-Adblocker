@@ -1,4 +1,4 @@
-ad_list_url=/$USER/adblocker/adblock-yoyo.txt
+ad_list_url=/$USER/adblocker/dnsmasq.adblocker.blacklist.yoyo.txt
 pixelserv_ip="0.0.0.0"
 ad_file="/etc/dnsmasq.d/dnsmasq.adblocker.blacklist.yoyo.conf"
 
