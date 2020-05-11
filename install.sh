@@ -1,1 +1,1 @@
-sudo apt-get install dnsmasq && sudo apt-get install git && git clone "https://github.com/TheWebAuthor/Dnsmasq-Adblocker.git" /$USER/adblocker && sh /$USER/adblocker/update-all.sh && echo "sh \"/"$USER"/adblocker/update-all.sh\"" > /etc/cron.daily/dnsmasq.adblocker.update
+sudo apt-get install dnsmasq -y && sudo apt-get install git -y && git clone "https://github.com/TheWebAuthor/Dnsmasq-Adblocker.git" /$USER/adblocker && sh /$USER/adblocker/update-all.sh && echo "sh \"/"$USER"/adblocker/update-all.sh\"" > /etc/cron.daily/dnsmasq.adblocker.update
