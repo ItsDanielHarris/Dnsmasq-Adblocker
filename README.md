@@ -15,7 +15,7 @@ Dnsmasq Adblocker is an automated tool that updates dnsmasq daily using remote b
 
 Run this line of code in Terminal/Console which will automatically set everything up for you.                    
 ```
-apt-get install curl -y && source <(curl -s https://raw.githubusercontent.com/TheWebAuthor/Dnsmasq-Adblocker/master/install.sh)
+apt-get install curl -y && source <(curl -s https://raw.githubusercontent.com/ItsDanielHarris/Dnsmasq-Adblocker/master/install.sh)
 ```
 
 ### Configuration
